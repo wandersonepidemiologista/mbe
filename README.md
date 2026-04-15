@@ -8,10 +8,14 @@ A organização segue o padrão:
 
 - `grupos/G1A/`
 - `grupos/G1B/`
-- `grupos/G2/`
-- `grupos/G3/`
-- `grupos/G4/`
-- `grupos/G5/`
+- `grupos/G2A/`
+- `grupos/G2B/`
+- `grupos/G3A/`
+- `grupos/G3B/`
+- `grupos/G4A/`
+- `grupos/G4B/`
+- `grupos/G5A/`
+- `grupos/G5B/`
 
 Cada grupo contém as seguintes pastas:
 
